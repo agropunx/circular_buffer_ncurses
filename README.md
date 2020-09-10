@@ -3,8 +3,8 @@
 Repository with a bidirectional circular buffer class written in C++;
 
 It is also given a simple ncurses TUI for the circular buffer.
-It compile and works but yet need to be added some flexibility
-for buffer type (as per class) and read/write from/to external files.
+It compile and works but yet some flexibility
+for buffer type (as per class) and read/write from/to external files need to be added.
 Currently the buffer type in TUI.cpp is fixed to uint32_t, 
 tedious but easy to change accessing the code. 
 
